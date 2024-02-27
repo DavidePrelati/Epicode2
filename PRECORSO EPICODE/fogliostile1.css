@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+        body{
+            margin:0;
+            font-family: "Anta", sans-serif;
+        }
+
+        .generale1{
+            padding: 12px;
+            font-size: 1.2em;
+            color: whitesmoke;
+        }
+
+        #container{
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+    
+
+        
+
+        #titoli-h2{
+            margin: 0;
+        }
+
+        img{
+            width: 50%;
+        }
+
+        h1, h2{
+            font-family: "Oswald", sans-serif;
+        }
+        
+    
